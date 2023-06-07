@@ -2,7 +2,7 @@
 
 ## Junior Fullstack Web Developer (MERN)
 
-I am in the final stretch of my Web Developement course (Backend Module) at the Digital Career Institute.
+I am in the final stretch of my Web Developement course (Backend Module) at the [Digital Career Institute](https://github.com/DigitalCareerInstitute).
 
 -   🌍  I'm based in Hannover, Germany
 -   ✉️  You can contact me at [jacqueline.scharrer@web.de](mailto:jacqueline.scharrer@web.de)
